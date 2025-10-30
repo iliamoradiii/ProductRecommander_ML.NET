@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "QCv4sPEj1Ug=",
+  "success": true,
+  "projectFilePath": "D:\\ProductRecommander_ML.NET\\ProductRecommander_ML.NET\\ProductPredicator\\ProductPredicator.csproj",
+  "expectedPackageFiles": [
+    "D:\\NuGetCache_Fresh\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "D:\\NuGetCache_Fresh\\microsoft.ml\\4.0.3\\microsoft.ml.4.0.3.nupkg.sha512",
+    "D:\\NuGetCache_Fresh\\microsoft.ml.cpumath\\4.0.3\\microsoft.ml.cpumath.4.0.3.nupkg.sha512",
+    "D:\\NuGetCache_Fresh\\microsoft.ml.dataview\\4.0.3\\microsoft.ml.dataview.4.0.3.nupkg.sha512",
+    "D:\\NuGetCache_Fresh\\microsoft.ml.recommender\\0.22.3\\microsoft.ml.recommender.0.22.3.nupkg.sha512",
+    "D:\\NuGetCache_Fresh\\microsoft.openapi\\1.6.14\\microsoft.openapi.1.6.14.nupkg.sha512",
+    "D:\\NuGetCache_Fresh\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\microsoft.visualstudio.azure.containers.tools.targets.1.21.0.nupkg.sha512",
+    "D:\\NuGetCache_Fresh\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "D:\\NuGetCache_Fresh\\swashbuckle.aspnetcore\\6.6.2\\swashbuckle.aspnetcore.6.6.2.nupkg.sha512",
+    "D:\\NuGetCache_Fresh\\swashbuckle.aspnetcore.swagger\\6.6.2\\swashbuckle.aspnetcore.swagger.6.6.2.nupkg.sha512",
+    "D:\\NuGetCache_Fresh\\swashbuckle.aspnetcore.swaggergen\\6.6.2\\swashbuckle.aspnetcore.swaggergen.6.6.2.nupkg.sha512",
+    "D:\\NuGetCache_Fresh\\swashbuckle.aspnetcore.swaggerui\\6.6.2\\swashbuckle.aspnetcore.swaggerui.6.6.2.nupkg.sha512",
+    "D:\\NuGetCache_Fresh\\system.codedom\\8.0.0\\system.codedom.8.0.0.nupkg.sha512",
+    "D:\\NuGetCache_Fresh\\system.collections.immutable\\8.0.0\\system.collections.immutable.8.0.0.nupkg.sha512",
+    "D:\\NuGetCache_Fresh\\system.memory\\4.6.0\\system.memory.4.6.0.nupkg.sha512",
+    "D:\\NuGetCache_Fresh\\system.numerics.tensors\\8.0.0\\system.numerics.tensors.8.0.0.nupkg.sha512",
+    "D:\\NuGetCache_Fresh\\system.reflection.emit.lightweight\\4.7.0\\system.reflection.emit.lightweight.4.7.0.nupkg.sha512",
+    "D:\\NuGetCache_Fresh\\system.threading.channels\\8.0.0\\system.threading.channels.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\programming\\Asp.net Core\\ML.Net\\ProductPredicator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F28D57D9-7535-40EF-969A-50683D1A50E8}|ProductPredicator\\ProductPredicator.csproj|e:\\programming\\asp.net core\\ml.net\\productpredicator\\productpredicator\\controllers\\predicationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F28D57D9-7535-40EF-969A-50683D1A50E8}|ProductPredicator\\ProductPredicator.csproj|solutionrelative:productpredicator\\controllers\\predicationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F28D57D9-7535-40EF-969A-50683D1A50E8}|ProductPredicator\\ProductPredicator.csproj|e:\\programming\\asp.net core\\ml.net\\productpredicator\\productpredicator\\services\\recommendationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F28D57D9-7535-40EF-969A-50683D1A50E8}|ProductPredicator\\ProductPredicator.csproj|solutionrelative:productpredicator\\services\\recommendationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F28D57D9-7535-40EF-969A-50683D1A50E8}|ProductPredicator\\ProductPredicator.csproj|e:\\programming\\asp.net core\\ml.net\\productpredicator\\productpredicator\\services\\fakedatafeedservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F28D57D9-7535-40EF-969A-50683D1A50E8}|ProductPredicator\\ProductPredicator.csproj|solutionrelative:productpredicator\\services\\fakedatafeedservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F28D57D9-7535-40EF-969A-50683D1A50E8}|ProductPredicator\\ProductPredicator.csproj|e:\\programming\\asp.net core\\ml.net\\productpredicator\\productpredicator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F28D57D9-7535-40EF-969A-50683D1A50E8}|ProductPredicator\\ProductPredicator.csproj|solutionrelative:productpredicator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F28D57D9-7535-40EF-969A-50683D1A50E8}|ProductPredicator\\ProductPredicator.csproj|e:\\programming\\asp.net core\\ml.net\\productpredicator\\productpredicator\\services\\interfaces\\ifakedatafeedservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F28D57D9-7535-40EF-969A-50683D1A50E8}|ProductPredicator\\ProductPredicator.csproj|solutionrelative:productpredicator\\services\\interfaces\\ifakedatafeedservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F28D57D9-7535-40EF-969A-50683D1A50E8}|ProductPredicator\\ProductPredicator.csproj|e:\\programming\\asp.net core\\ml.net\\productpredicator\\productpredicator\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F28D57D9-7535-40EF-969A-50683D1A50E8}|ProductPredicator\\ProductPredicator.csproj|solutionrelative:productpredicator\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F28D57D9-7535-40EF-969A-50683D1A50E8}|ProductPredicator\\ProductPredicator.csproj|e:\\programming\\asp.net core\\ml.net\\productpredicator\\productpredicator\\models\\purchase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F28D57D9-7535-40EF-969A-50683D1A50E8}|ProductPredicator\\ProductPredicator.csproj|solutionrelative:productpredicator\\models\\purchase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F28D57D9-7535-40EF-969A-50683D1A50E8}|ProductPredicator\\ProductPredicator.csproj|e:\\programming\\asp.net core\\ml.net\\productpredicator\\productpredicator\\models\\prediction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F28D57D9-7535-40EF-969A-50683D1A50E8}|ProductPredicator\\ProductPredicator.csproj|solutionrelative:productpredicator\\models\\prediction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 1183,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IFakeDataFeedService.cs",
+              "DocumentMoniker": "E:\\programming\\Asp.net Core\\ML.Net\\ProductPredicator\\ProductPredicator\\Services\\Interfaces\\IFakeDataFeedService.cs",
+              "RelativeDocumentMoniker": "ProductPredicator\\Services\\Interfaces\\IFakeDataFeedService.cs",
+              "ToolTip": "E:\\programming\\Asp.net Core\\ML.Net\\ProductPredicator\\ProductPredicator\\Services\\Interfaces\\IFakeDataFeedService.cs",
+              "RelativeToolTip": "ProductPredicator\\Services\\Interfaces\\IFakeDataFeedService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T20:00:32.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FakeDataFeedService.cs",
+              "DocumentMoniker": "E:\\programming\\Asp.net Core\\ML.Net\\ProductPredicator\\ProductPredicator\\Services\\FakeDataFeedService.cs",
+              "RelativeDocumentMoniker": "ProductPredicator\\Services\\FakeDataFeedService.cs",
+              "ToolTip": "E:\\programming\\Asp.net Core\\ML.Net\\ProductPredicator\\ProductPredicator\\Services\\FakeDataFeedService.cs",
+              "RelativeToolTip": "ProductPredicator\\Services\\FakeDataFeedService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T15:52:34.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\programming\\Asp.net Core\\ML.Net\\ProductPredicator\\ProductPredicator\\Program.cs",
+              "RelativeDocumentMoniker": "ProductPredicator\\Program.cs",
+              "ToolTip": "E:\\programming\\Asp.net Core\\ML.Net\\ProductPredicator\\ProductPredicator\\Program.cs",
+              "RelativeToolTip": "ProductPredicator\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T15:45:56.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RecommendationService.cs",
+              "DocumentMoniker": "E:\\programming\\Asp.net Core\\ML.Net\\ProductPredicator\\ProductPredicator\\Services\\RecommendationService.cs",
+              "RelativeDocumentMoniker": "ProductPredicator\\Services\\RecommendationService.cs",
+              "ToolTip": "E:\\programming\\Asp.net Core\\ML.Net\\ProductPredicator\\ProductPredicator\\Services\\RecommendationService.cs",
+              "RelativeToolTip": "ProductPredicator\\Services\\RecommendationService.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAowCkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T15:39:39.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PredicationController.cs",
+              "DocumentMoniker": "E:\\programming\\Asp.net Core\\ML.Net\\ProductPredicator\\ProductPredicator\\Controllers\\PredicationController.cs",
+              "RelativeDocumentMoniker": "ProductPredicator\\Controllers\\PredicationController.cs",
+              "ToolTip": "E:\\programming\\Asp.net Core\\ML.Net\\ProductPredicator\\ProductPredicator\\Controllers\\PredicationController.cs",
+              "RelativeToolTip": "ProductPredicator\\Controllers\\PredicationController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T15:33:54.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "E:\\programming\\Asp.net Core\\ML.Net\\ProductPredicator\\ProductPredicator\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "ProductPredicator\\WeatherForecast.cs",
+              "ToolTip": "E:\\programming\\Asp.net Core\\ML.Net\\ProductPredicator\\ProductPredicator\\WeatherForecast.cs",
+              "RelativeToolTip": "ProductPredicator\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T20:01:42.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Prediction.cs",
+              "DocumentMoniker": "E:\\programming\\Asp.net Core\\ML.Net\\ProductPredicator\\ProductPredicator\\Models\\Prediction.cs",
+              "RelativeDocumentMoniker": "ProductPredicator\\Models\\Prediction.cs",
+              "ToolTip": "E:\\programming\\Asp.net Core\\ML.Net\\ProductPredicator\\ProductPredicator\\Models\\Prediction.cs",
+              "RelativeToolTip": "ProductPredicator\\Models\\Prediction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T19:42:24.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Purchase.cs",
+              "DocumentMoniker": "E:\\programming\\Asp.net Core\\ML.Net\\ProductPredicator\\ProductPredicator\\Models\\Purchase.cs",
+              "RelativeDocumentMoniker": "ProductPredicator\\Models\\Purchase.cs",
+              "ToolTip": "E:\\programming\\Asp.net Core\\ML.Net\\ProductPredicator\\ProductPredicator\\Models\\Purchase.cs",
+              "RelativeToolTip": "ProductPredicator\\Models\\Purchase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T19:42:49.125Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
