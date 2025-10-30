@@ -28,7 +28,7 @@ The model can be retrained dynamically as new user-product interactions are adde
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/your-username/ProductPredicator.git](https://github.com/iliamoradiii/ProductRecommander_ML.NET.git)
+   git clone https://github.com/iliamoradiii/ProductRecommander_ML.NET.git
    cd ProductPredicator
 
    dotnet restore
